@@ -1,0 +1,749 @@
+{
+    "status": "ok",
+    "totalResults": 90,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By Lilit Marcus and Shawn Deng, CNN",
+            "title": "China announces its first national parks",
+            "description": "China has just revealed its first-ever group of national parks, all of which focus on preservation of specific animals native to the country -- including, yes, pandas.",
+            "url": "https://www.cnn.com/travel/article/china-first-national-parks-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211013215253-01-china-first-national-parks-intl-hnk-panda-super-tease.jpg",
+            "publishedAt": "2021-10-15T00:35:29Z",
+            "content": "(CNN) China has just revealed its first-ever group of national parks, all of which focus on preservation of specific animals native to the country -- including, yes, pandas.\r\nAltogether, the protecte… [+3828 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Michelle Toh, CNN Business",
+            "title": "'Ghost towns': Evergrande crisis shines a light on China's millions of empty homes",
+            "description": "Evergrande's unraveling is still commanding global attention, but its troubles are part of a much bigger problem.",
+            "url": "https://www.cnn.com/2021/10/14/business/evergrande-china-property-ghost-towns-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211014081155-china-evergrande-cultural-tourism-city-0917-super-tease.jpg",
+            "publishedAt": "2021-10-15T02:20:54Z",
+            "content": "By Michelle Toh, CNN Business\r\nUpdated 10:20 PM ET, Thu October 14, 2021\r\nEvergrande's unraveling is still commanding global attention, but its troubles are part of a much bigger problem.\r\nFor weeks,… [+5399 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Sandee LaMotte, CNN",
+            "title": "We're drowning in a sea of salt. The FDA says we have to help save ourselves",
+            "description": "I never add salt to my food at home or in restaurants. Nor do I add salt to any recipe while I'm cooking. I'm well aware of the link between salt, high blood pressure and heart disease, which is the leading killer of American men and women.",
+            "url": "https://www.cnn.com/2021/10/13/health/cut-salt-fda-wellness/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/111020063021-salt-shaker-sodium-story-top.jpg",
+            "publishedAt": "2021-10-13T22:49:33Z",
+            "content": "(CNN)I never add salt to my food at home or in restaurants. Nor do I add salt to any recipe while I'm cooking. I'm well aware of the link between salt, high blood pressure and heart disease, which is… [+7303 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Isaac Dovere and Manu Raju, CNN",
+            "title": "Democrats push Biden to take forceful role in bridging party's divide over agenda",
+            "description": "House Speaker Nancy Pelosi and President Joe Biden spoke by phone last Tuesday and zeroed in on a strategy for their party's sweeping economic package, deciding that the time has come to wrap up negotiations, several senior officials in both places tell CNN -…",
+            "url": "https://www.cnn.com/2021/10/18/politics/joe-biden-democrats-legislative-agenda/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211004093100-02-biden-pelosi-capitol-hill-1001-super-tease.jpg",
+            "publishedAt": "2021-10-18T10:05:09Z",
+            "content": "(CNN)House Speaker Nancy Pelosi and President Joe Biden spoke by phone last Tuesday and zeroed in on a strategy for their party's sweeping economic package, deciding that the time has come to wrap up… [+8796 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Julia Horowitz, CNN Business",
+            "title": "What big bank earnings tell us about America's economy",
+            "description": "The biggest US banks move trillions of dollars around the world every day. That gives them a unique lens on how the economy is functioning, both in the United States and globally. And despite concerns about inflation, workers quitting, supply chain issues and…",
+            "url": "https://www.cnn.com/2021/10/15/investing/premarket-stocks-trading/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211015074131-citibank-economy-california-071421-file-super-tease.jpg",
+            "publishedAt": "2021-10-15T12:16:40Z",
+            "content": "A version of this story first appeared in CNN Business' Before the Bell newsletter. Not a subscriber? You can sign up right here. You can listen to an audio version of the newsletter by clicking the … [+6531 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jessie Yeung, CNN",
+            "title": "Man sentenced to death in China for setting his ex-wife on fire during a livestream",
+            "description": "A Chinese man who set his ex-wife on fire as she livestreamed to her online followers was sentenced to death on Thursday, concluding a murder case that received nationwide notoriety.",
+            "url": "https://www.cnn.com/2021/10/15/china/china-lhamo-murder-death-sentence-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211015031252-lhamo-grab-super-tease.jpg",
+            "publishedAt": "2021-10-15T08:48:20Z",
+            "content": "Hong Kong (CNN)A Chinese man who set his ex-wife on fire as she livestreamed to her online followers was sentenced to death on Thursday, concluding a murder case that received nationwide notoriety.\r\n… [+2999 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jennifer Hansler, CNN",
+            "title": "Biden's pick for US envoy to China backs more security assistance to Taiwan",
+            "description": "President Joe Biden's pick to be US Ambassador to China called for a continued commitment to the longstanding \"One China\" Policy but defended the United States' right to increase security assistance to Taiwan amid Beijing's aggression towards the island.",
+            "url": "https://www.cnn.com/2021/10/20/politics/nicholas-burns-confirmation-hearing/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211020153509-nicholas-burns-hearing-1020-super-tease.jpg",
+            "publishedAt": "2021-10-20T20:52:49Z",
+            "content": "(CNN)President Joe Biden's pick to be US Ambassador to China called for a continued commitment to the longstanding \"One China\" Policy but defended the United States' right to increase security assist… [+3969 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Brad Lendon, CNN",
+            "title": "With all eyes on Taiwan, tensions are building on another Chinese frontier: India",
+            "description": "China's increased military activity in the Taiwan Strait may have grabbed all the headlines in recent weeks, but thousands of miles to the west, another simmering territorial dispute on the country's borders looks more likely to boil over first.",
+            "url": "https://www.cnn.com/2021/10/13/china/taiwan-india-tensions-mic-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211012234701-india-army-zoji-la-pass-0613-super-tease.jpg",
+            "publishedAt": "2021-10-13T05:24:41Z",
+            "content": "A version of this story appeared in CNN's Meanwhile in China newsletter, a three-times-a-week update exploring what you need to know about the country's rise and how it impacts the world. Sign up her… [+7844 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Ben Westcott and Eric Cheung, CNN",
+            "title": "China isn't about to invade Taiwan. But the two sides are on a dangerous path",
+            "description": "Beijing is piling military, economic and diplomatic pressure on Taiwan to achieve its longterm goal of \"One China.\" But experts worry that if Chinese Communist Party leaders believe they have no hope of a peaceful \"reunification,\" they may turn to more drasti…",
+            "url": "https://www.cnn.com/2021/10/15/asia/taiwan-invasion-us-china-tensions-intl-dst-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211014093552-20211110-china-taiwan-hero-gfx-super-tease.jpg",
+            "publishedAt": "2021-10-16T00:16:39Z",
+            "content": "Hong Kong/Taipei, Taiwan (CNN)Taiwan's Defense Minister, former general Chiu Kuo-cheng, stood in front of the island's legislature last week and made a dire prediction -- by 2025, China will be able … [+11476 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Dr. Sanjay Gupta, CNN Chief Medical Correspondent",
+            "title": "The two talked for more than three hours with with no cellphones, no distractions and no breaks. Here's what they covered.",
+            "description": "In today's highly segmented media world, most of the people who watch and listen to me every day on CNN have already received and accepted the message about the utility of vaccines, the importance of masks and how we can all work together to put an end to thi…",
+            "url": "https://www.cnn.com/2021/10/13/health/sanjay-gupta-joe-rogan-experience/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211013203323-gupta-joe-rogan-podcast-super-tease.jpg",
+            "publishedAt": "2021-10-14T01:31:31Z",
+            "content": "CNN Chief Medical Correspondent Dr. Sanjay Gupta is a practicing neurosurgeon and the author of the new book \"World War C: Lessons from the Covid-19 Pandemic and How to Prepare for the Next One.\"\r\n (… [+9524 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Oscar Holland, CNN",
+            "title": "The year's most stunning architectural photos revealed",
+            "description": "Images of a cube-shaped office building in Berlin and a soaring Chinese skyscraper complex are among the finalists in the prestigious Architectural Photography Awards.",
+            "url": "https://www.cnn.com/style/article/architectural-photography-awards-2021-shortlist/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211019003645-06b-architectural-photography-awards-2021-super-tease.jpg",
+            "publishedAt": "2021-10-19T11:32:15Z",
+            "content": "Images of a cube-shaped office building in Berlin and a soaring Chinese skyscraper complex are among the finalists in the prestigious Architectural Photography Awards.\r\nSpanning categories including … [+1397 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Analysis by Nectar Gan and Jessie Yeung, CNN",
+            "title": "China is about to send the first female astronaut to work on its new space station",
+            "description": "The first woman assigned to work on China's new space station will be aboard when the Shenzhou-13 spacecraft blasts off early Saturday local time, in what's set to be a landmark moment for female astronauts and the country's rapidly expanding space program.",
+            "url": "https://www.cnn.com/2021/10/15/china/space-launch-female-astronaut-mic-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211014223055-wang-yaping-1014-super-tease.jpg",
+            "publishedAt": "2021-10-15T06:27:10Z",
+            "content": "A version of this story appeared in CNN's Meanwhile in China newsletter, a three-times-a-week update exploring what you need to know about the country's rise and how it impacts the world. Sign up her… [+6608 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Eric Cheung, Will Ripley and Ben Westcott, CNN",
+            "title": "China-Taiwan tensions are raising fears of a conflict. In Taipei, however, people don't seem worried",
+            "description": "China has stepped up pressure on Taiwan in recent weeks, flying dozens of warplanes near the self-ruled island in a show of strength that has put the entire region on edge.",
+            "url": "https://www.cnn.com/2021/10/14/asia/taiwan-china-taipei-people-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211014172151-04-taiwan-china-liu-tingting-super-tease.jpeg",
+            "publishedAt": "2021-10-15T01:23:00Z",
+            "content": "Taipei, Taiwan (CNN)China has stepped up pressure on Taiwan in recent weeks, flying dozens of warplanes near the self-ruled island in a show of strength that has put the entire region on edge. \r\nBut … [+4364 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Nectar Gan, CNN",
+            "title": "First he fled North Korea. Now he's escaped from a Chinese prison",
+            "description": "Chinese authorities have offered a bounty equivalent to more than $23,000 for the capture of a North Korean defector who broke out of prison in the northeastern city of Jilin on Monday.",
+            "url": "https://www.cnn.com/2021/10/20/china/jilin-prison-break-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211019223704-zhu-xianjian-super-tease.jpg",
+            "publishedAt": "2021-10-20T06:33:50Z",
+            "content": "Hong Kong (CNN)Chinese authorities have offered a bounty equivalent to more than $23,000 for the capture of a North Korean defector who broke out of prison in the northeastern city of Jilin on Monday… [+3142 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Laura He, CNN Business",
+            "title": "China's real estate crisis could kill growth into 2022. Beijing's undeterred",
+            "description": "China's growth is seriously slowing down as the country lurches from one economic threat to another. And while some of the biggest pain points appear to be easing, an unfolding crisis in real estate is emerging as one of Beijing's toughest challenges in the c…",
+            "url": "https://www.cnn.com/2021/10/20/economy/china-gdp-real-estate-mic-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211019204228-china-engine-factory-1018-super-tease.jpg",
+            "publishedAt": "2021-10-20T06:08:05Z",
+            "content": "A version of this story appeared in CNN's Meanwhile in China newsletter, a three-times-a-week update exploring what you need to know about the country's rise and how it impacts the world. Sign up her… [+6258 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Nectar Gan, CNN",
+            "title": "A man is on the run after allegedly killing two neighbors. Some in China hope he will never be caught",
+            "description": "Ou Jinzhong has been on the run for more than a week.",
+            "url": "https://www.cnn.com/2021/10/17/china/murder-suspect-sympathy-dst-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211015004126-01-china-ou-jinzhong-on-run-super-tease.jpg",
+            "publishedAt": "2021-10-18T02:27:10Z",
+            "content": "\"If any government department had stepped in to help him resolve the dispute, he might not have ended up on the path of murder.\" \r\nLiu Xiaoyuan, lawyer"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By Lilit Marcus and Shawn Deng, CNN",
+            "title": "New 620-mile railway connects China and Laos",
+            "description": "China's intense railway expansion has marked a new milestone with the official opening of a new track that pushes beyond its own frontiers into its southern neighbor Laos.",
+            "url": "https://www.cnn.com/travel/article/china-laos-train-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211018034652-laos-china-train-1015-super-tease.jpg",
+            "publishedAt": "2021-10-19T12:27:32Z",
+            "content": "Lilit Marcus and Shawn Deng, CNNUpdated 19th October 2021\r\n(CNN) China's intense railway expansion has marked a new milestone with the official opening of a new track that pushes beyond its own front… [+2007 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Nectar Gan, CNN",
+            "title": "A murder suspect who gained wide public sympathy in China has died after a week on the run",
+            "description": "A murder suspect who garnered widespread sympathy from the Chinese public has died after more than a week on the run, triggering an outpouring of sadness and outrage on social media.",
+            "url": "https://www.cnn.com/2021/10/18/china/china-murder-suspect-suicide-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211018082052-01-china-jinzhong-on-run-copy-super-tease.jpg",
+            "publishedAt": "2021-10-18T13:21:15Z",
+            "content": "Hong Kong (CNN)A murder suspect who garnered widespread sympathy from the Chinese public has died after more than a week on the run, triggering an outpouring of sadness and outrage on social media.\r\n… [+3740 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Julia Horowitz, CNN Business",
+            "title": "Goldman Sachs looks forward to a 'new chapter' in China",
+            "description": "Goldman Sachs has received clearance to take full ownership of its securities joint venture in China, a sign that Beijing remains open to foreign financial firms even as geopolitical tensions simmer.",
+            "url": "https://www.cnn.com/2021/10/18/investing/goldman-sachs-china/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211018072631-goldman-sachs-new-york-stock-exchange-071321-file-super-tease.jpg",
+            "publishedAt": "2021-10-18T14:01:44Z",
+            "content": "London (CNN Business)Goldman Sachs(GS) has received clearance to take full ownership of its securities joint venture in China, a sign that Beijing remains open to foreign financial firms even as geop… [+1912 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By Maggie Hiufu Wong, CNN",
+            "title": "'Mooncakes and Milk Bread': Celebrating the tastes of Chinese American bakeries",
+            "description": "Kristina Cho's recently published cookbook, \"Mooncakes and Milk Bread: Sweet & Savoury Recipes Inspired by Chinese Bakeries,\" shines the culinary spotlight on the baked goods she grew up eating in Chinese American bakeries.",
+            "url": "https://www.cnn.com/travel/article/mooncakes-and-milk-bread-chinese-american-bakeries-cmd/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211020082041-mooncakes-and-milk-bread-tease-2-super-tease.jpg",
+            "publishedAt": "2021-10-20T01:44:41Z",
+            "content": "An architecture graduate and interior designer, Cho turned to baking a few years ago when she couldn't find satisfaction at work, eventually starting her blog, Eat Cho Food. \r\nHer grandparents moved … [+5386 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jessie Yeung and Steven Jiang, CNN",
+            "title": "China to launch 6-month manned mission as it cements position as global space power",
+            "description": "China will launch a three-person crew into space in the early hours of Saturday -- a major step for the country's young space program, rapidly becoming one of the world's most advanced.",
+            "url": "https://www.cnn.com/2021/10/15/china/china-shenzhou-13-manned-launch-intl-hnk-scn/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211015101854-03-china-space-mission-1015-super-tease.jpg",
+            "publishedAt": "2021-10-15T15:37:07Z",
+            "content": "Jiuquan Satellite Launch Center, China (CNN)China will launch a three-person crew into space in the early hours of Saturday -- a major step for the country's young space program, which is rapidly bec… [+8334 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Analysis by Nectar Gan, CNN",
+            "title": "China's propaganda machine is launching a 'people's war' to catch American spies",
+            "description": "\"Let's fight a 'people's war' against the spies, so that they cannot move a single step and have no place to hide!\"",
+            "url": "https://www.cnn.com/2021/10/18/china/cia-spies-mic-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211018014304-flag-raising-tiananmen-square-1001-restricted-super-tease.jpg",
+            "publishedAt": "2021-10-18T06:43:21Z",
+            "content": "A version of this story appeared in CNN's Meanwhile in China newsletter, a three-times-a-week update exploring what you need to know about the country's rise and how it impacts the world. Sign up her… [+5210 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Natasha Bertrand and Oren Liebermann, CNN",
+            "title": "China, Taiwan tensions spark debate inside Biden admin as Democrats push for more forceful response",
+            "description": "The Biden administration is grappling with how to respond to China's ramped-up aggression against Taiwan without accidentally starting a war, as bipartisan lawmakers pressure the President to get tougher on Beijing -- and fast.",
+            "url": "https://www.cnn.com/2021/10/15/politics/china-taiwan-tension-debate-biden-response/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211006023914-china-fighter-jets-file-super-tease.jpg",
+            "publishedAt": "2021-10-15T11:12:15Z",
+            "content": "Washington (CNN)The Biden administration is grappling with how to respond to China's ramped-up aggression against Taiwan without accidentally starting a war, as bipartisan lawmakers pressure the Pres… [+8496 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By Simran Vaswani, CNN",
+            "title": "They're trying to preserve Hong Kong's neon lights",
+            "description": "From Hollywood blockbusters to Wong Kar-wai movies, neon signs have been an iconic representation of Hong Kong.",
+            "url": "https://www.cnn.com/travel/article/hong-kong-neon-lights-history-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/140707122503-neon-lights-hong-kong-zdanowicz-story-top.jpg",
+            "publishedAt": "2021-10-13T05:09:41Z",
+            "content": "Simran Vaswani, CNNPublished 13th October 2021\r\nHong Kong (CNN) From Hollywood blockbusters to Wong Kar-wai movies, neon signs have been an iconic representation of Hong Kong. \r\nFirst introduced in t… [+3801 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Story by Reuters",
+            "title": "G20 pledges help for Afghan humanitarian crisis at special summit",
+            "description": "The Group of 20 major economies is determined to tackle the humanitarian crisis in Afghanistan, even if it means having to coordinate efforts with the Taliban, Italian Prime Minister Mario Draghi said on Tuesday after hosting an emergency summit.",
+            "url": "https://www.cnn.com/2021/10/13/asia/g20-afghanistan-humanitarian-crisis-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211013023600-afghanistan-idp-camp-0917-super-tease.jpg",
+            "publishedAt": "2021-10-13T06:45:08Z",
+            "content": "The Group of 20 major economies is determined to tackle the humanitarian crisis in Afghanistan, even if it means having to coordinate efforts with the Taliban, Italian Prime Minister Mario Draghi sai… [+2866 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Katie Hunt, CNN",
+            "title": "Tiny crab preserved in 100-million-year-old amber lived among dinosaurs",
+            "description": "Fossils trapped in amber have been among paleontology's most fascinating finds in recent years -- globs of hardened ancient tree resin have captured tantalizing details about spiders, lizards, microscopic animals, insects, birds and even a tiny dinosaur that …",
+            "url": "https://www.cnn.com/2021/10/20/asia/amber-crab-fossil-scn/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211020070955-01-amber-crab-fossil-scn-super-tease.jpg",
+            "publishedAt": "2021-10-20T19:40:50Z",
+            "content": "(CNN)Fossils trapped in amber have been among paleontology's most fascinating finds in recent years -- globs of hardened ancient tree resin have captured tantalizing details about spiders, lizards, m… [+3174 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Harmeet Kaur, CNN",
+            "title": "5 things to know for October 15: Covid, Capitol riot, Lebanon, United Nations, China",
+            "description": "Here's what else you need to know to Get Up to Speed and On with Your Day.",
+            "url": "https://www.cnn.com/2021/10/15/us/five-things-october-15-trnd/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211015052313-moderna-covid-19-california-052121-file-super-tease.jpg",
+            "publishedAt": "2021-10-15T10:14:48Z",
+            "content": "(CNN)La Niña has arrived and is here to stay through the winter. Depending on where you are, a wetter or drier season could be in store. \r\nHere's what you need to know to Get Up to Speed and On with … [+4635 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Emiko Jozuka, CNN",
+            "title": "Japan's Prime Minister dissolves Parliament ahead of October 31 general election",
+            "description": "Japan's Prime Minister Fumio Kishida dissolved Parliament's lower house on Thursday, setting the stage for a general election this month as he seeks to rouse support for his newly formed government.",
+            "url": "https://www.cnn.com/2021/10/14/asia/japan-general-election-parliament-dissolved-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211013224233-fumio-kishida-101121-super-tease.jpg",
+            "publishedAt": "2021-10-14T05:35:08Z",
+            "content": "Tokyo (CNN)Japan's Prime Minister Fumio Kishida dissolved Parliament's lower house on Thursday, setting the stage for a general election this month as he seeks to rouse support for his newly formed g… [+1142 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Nicole Gaouette, CNN",
+            "title": "Rahm Emanuel, Biden's nominee to be envoy to Japan, indicates China would be a central focus of the job",
+            "description": "Rahm Emanuel, the Biden administration's nominee to be ambassador to Japan, made clear Wednesday that he believes a core part of the envoy job is about countering China.",
+            "url": "https://www.cnn.com/2021/10/20/politics/rahm-senate-nomination-hearing/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211020153709-rahm-emanuel-10-20-2021-super-tease.jpg",
+            "publishedAt": "2021-10-20T22:07:04Z",
+            "content": "Washington (CNN)Rahm Emanuel, the Biden administration's nominee to be ambassador to Japan, made clear Wednesday that he believes a core part of the envoy job is about countering China. \r\nEmanuel app… [+6914 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "CNN's Beijing Bureau and Hannah Ritchie",
+            "title": "China denies testing a nuclear-capable hypersonic missile, says it was a spacecraft",
+            "description": "China has denied a report that it tested a nuclear-capable hypersonic missile in August, saying on Monday that the test was instead a \"routine spacecraft experiment.\"",
+            "url": "https://www.cnn.com/2021/10/18/china/china-hypersonic-missile-spacecraft-intl/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211018061632-01-china-national-flag-file-super-tease.jpg",
+            "publishedAt": "2021-10-18T11:43:52Z",
+            "content": "Beijing (CNN)China has denied a report that it tested a nuclear-capable hypersonic missile in August, saying on Monday that the test was instead a \"routine spacecraft experiment.\" \r\nThe Financial Tim… [+2410 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Harmeet Kaur, CNN",
+            "title": "5 things to know for October 14: Covid, Social Security, Norway, Taiwan, John Deere",
+            "description": "Here's what else you need to know to Get Up to Speed and On with Your Day.",
+            "url": "https://www.cnn.com/2021/10/14/us/five-things-october-14-trnd/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211014052125-texas-covid-vaccine-082821-file-super-tease.jpg",
+            "publishedAt": "2021-10-14T10:21:20Z",
+            "content": "(CNN)Billions of years ago, Venus and Earth were both piping hot. Had things been a bit different, Earth might never have become livable, a new study finds.\r\nHere's what you need to know to Get Up to… [+4174 chars]"
+        },
+        
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Laura He, CNN Business",
+            "title": "China's economy grew 4.9% in the third quarter",
+            "description": "China's economy grew just 4.9% in the third quarter of 2021, the weakest rate of expansion in a year as the country contended with a major energy crunch, supply chain disruptions, and deepening debt woes in its outsized property sector.",
+            "url": "https://www.cnn.com/2021/10/17/economy/china-gdp-q3-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211017205543-beijing-china-shopping-1016-super-tease.jpg",
+            "publishedAt": "2021-10-18T02:12:33Z",
+            "content": "Hong Kong (CNN Business)China's economy grew just 4.9% in the third quarter of 2021, the weakest rate of expansion in a year as the country contended with a major energy crunch, supply chain disrupti… [+369 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Krystin Arneson",
+            "title": "Omsom and Instant Pot just launched an incredibly tasty collab",
+            "description": "Omsom has teamed up with Instant Pot for a major collaboration that makes putting a restaurant-quality meal on the table even easier.",
+            "url": "https://www.cnn.com/2021/10/14/cnn-underscored/omsom-instant-pot-collaboration/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/211014122533-omsom-instant-pot-collaboration-lead.jpg?q=x_0,y_0,h_900,w_1599,c_fill/w_800",
+            "publishedAt": "2021-10-14T16:49:35Z",
+            "content": "Weve been obsessed with Omsoms incredible sauce kits for a while: The direct-to-consumer brand sells pouches called starters that help get your favorite Asian dishes off the ground in no time flat. N… [+1420 chars]"
+        },
+        
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Kylie Atwood, CNN",
+            "title": "US officials reported Havana syndrome symptoms in Colombia",
+            "description": "More than a dozen US officials who work at the US Embassy in Colombia and their family members have reported symptoms consistent with \"Havana syndrome\" in recent weeks, according to a US official and a source familiar with the situation.",
+            "url": "https://www.cnn.com/2021/10/12/politics/havana-syndrome-symptoms-colombia/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211012220758-us-embassy-colombia-super-tease.jpg",
+            "publishedAt": "2021-10-13T02:29:39Z",
+            "content": "(CNN)More than a dozen US officials who work at the US Embassy in Colombia and their family members have reported symptoms consistent with \"Havana syndrome\" in recent weeks, according to a US officia… [+2363 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Kara Fox, CNN",
+            "title": "Vaccine hesitancy in pregnant people drives rise in Covid hospitalizations",
+            "description": "Unvaccinated pregnant people are battling for their lives in hospital as public health officials step up their messaging on vaccine safety.",
+            "url": "https://www.cnn.com/2021/10/13/world/coronavirus-newsletter-intl-13-10-21/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200130165125-corona-virus-cdc-image-super-tease.jpg",
+            "publishedAt": "2021-10-13T12:17:24Z",
+            "content": "This is the weekly edition of CNN's coronavirus newsletter. Look out for your roundup every Wednesday. If you haven't subscribed yet, sign up here.\r\n (CNN)Pregnant people who develop Covid-19 symptom… [+9598 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Paul R. La Monica, CNN Business",
+            "title": "Bitcoin tops $60,000 as investors bet on ETF approval",
+            "description": "Bitcoin prices continued their October surge on Friday, topping $60,000 on hopes that the Securities and Exchange Commission will soon approve a bitcoin futures exchange-traded fund.",
+            "url": "https://www.cnn.com/2021/10/15/investing/bitcoin-prices-etf/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211015080501-01-bitcoin-0530-super-tease.jpg",
+            "publishedAt": "2021-10-15T14:36:47Z",
+            "content": "New York (CNN Business)Bitcoin prices continued their October surge on Friday, topping $60,000 on hopes that the Securities and Exchange Commission will soon approve a bitcoin futures exchange-traded… [+3094 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Gawon Bae, CNN",
+            "title": "South Korean speed skater Shim Suk-hee barred from training following leaked text messages",
+            "description": "South Korean short track speed skater Shim Suk-hee, who was at the center of public sentiment for revealing physical and sexual abuse by her former coach, has been dropped from the national team over controversial text messages, putting her hopes of taking pa…",
+            "url": "https://www.cnn.com/2021/10/14/sport/shim-suk-hee-speed-skating-winter-olympics-spt-intl/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211014114149-01-shim-suk-hee-olympics-2018-file-super-tease.jpg",
+            "publishedAt": "2021-10-15T00:03:49Z",
+            "content": "Seoul, South Korea (CNN)South Korean short track speed skater Shim Suk-hee, who was at the center of public sentiment for revealing physical and sexual abuse by her former coach, has been dropped fro… [+6067 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Opinion by Henning Gloystein for CNN Business Perspectives",
+            "title": "What the global gas and coal crisis means for clean energy",
+            "description": "This continued risk of supply disruptions and high prices for fossil fuels — which drive up electricity costs — are a signal to countries that it's time to invest in clean and domestic energy resources.",
+            "url": "https://www.cnn.com/2021/10/18/perspectives/global-energy-crisis-coal-oil-gas-renewables/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211018115206-01-gas-crisis-uk-1004-super-tease.jpg",
+            "publishedAt": "2021-10-18T19:20:54Z",
+            "content": "Henning Gloystein is a director of Energy, Climate and Resources at Eurasia Group, based in London. The opinions expressed in this commentary are his own. \r\nEnergy shortages and price spikes are roil… [+3977 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By Lilit Marcus, CNN",
+            "title": "I went on a 'bus ride to nowhere'",
+            "description": "Flight to nowhere. Cruise to nowhere. And now ... a bus ride to nowhere.",
+            "url": "https://www.cnn.com/travel/article/hong-kong-sightseeing-bus-to-nowhere-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211018002904-hong-kong-bus-file-2020-super-tease.jpg",
+            "publishedAt": "2021-10-19T05:13:54Z",
+            "content": "Lilit Marcus, CNNPublished 19th October 2021\r\nHong Kong's residents are among the most travel-starved people in the world. As other cities throughout Asia and the Pacific loosen travel restrictions a… [+4222 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Nathaniel Meyersohn, CNN Business",
+            "title": "Storage containers are scarce, so toymakers are focused on small, squishy toys for the holidays",
+            "description": "Jay Foreman, the chief executive of toymaker Basic Fun, was in a bind over the summer.",
+            "url": "https://www.cnn.com/2021/10/16/business/toys-holiday-shopping-supply-chain/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210929043912-03-port-of-los-angeles-container-ships-0920-super-tease.jpg",
+            "publishedAt": "2021-10-16T13:56:52Z",
+            "content": "New York (CNN Business)Jay Foreman, the chief executive of toymaker Basic Fun, was in a bind over the summer. \r\nThe end-of-year holiday shopping rush was quickly approaching, but Foreman was struggli… [+5604 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Richard Roth and Maegan Vazquez, CNN",
+            "title": "US officially rejoins controversial UN Human Rights Council",
+            "description": "The United States is officially a member of the controversial United Nations Human Rights Council again, reversing former President Donald Trump's withdrawal three years ago.",
+            "url": "https://www.cnn.com/2021/10/14/politics/us-united-nations-human-rights-council/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210917210220-linda-thomas-greenfield-2021-file-super-tease.jpg",
+            "publishedAt": "2021-10-14T17:18:35Z",
+            "content": "(CNN)The United States is officially a member of the controversial United Nations Human Rights Council again, reversing former President Donald Trump's withdrawal three years ago.\r\nThe US was elected… [+4457 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By <a href=\"/profiles/meg-wagner\">Meg Wagner</a>, <a href=\"/profiles/melissa-mahtani\">Melissa Mahtani</a>, Melissa Macaya, <a href=\"/profiles/veronica-rocha\">Veronica Rocha</a> and Mike Hayes, CNN",
+            "title": "The latest on the global supply chain crisis",
+            "description": "President Biden will deliver remarks today on his administration's efforts to address bottlenecks in the global transportation supply. Follow here for the latest news.",
+            "url": "https://www.cnn.com/business/live-news/supply-chain-issues-biden-10-13-21/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211012054822-cargo-ship-bayonne-port-global-supply-chain-100621-file-super-tease.jpg",
+            "publishedAt": "2021-10-13T16:04:36Z",
+            "content": "Computer chip shortages. Epic port congestion. And a serious lack of truck drivers. The worlds delicate supply chains are under extreme stress.\r\nThe supply chain nightmare is jacking up prices for co… [+2310 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By Masrur Jamaluddin, CNN",
+            "title": "Bali now open to tourists from 19 countries",
+            "description": "Indonesia's Bali and Riau Islands are reopening to visitors from 19 countries starting Thursday, according to the country's Minister of Maritime Affairs and Investment, Luhut Binsar Panjaitan.",
+            "url": "https://www.cnn.com/travel/article/bali-riau-indonesia-tourism-reopening-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211014014004-bali-reopening-prep-1014-super-tease.jpg",
+            "publishedAt": "2021-10-14T06:52:57Z",
+            "content": "Jakarta (CNN) Indonesia's Bali and Riau Islands are reopening to visitors from 19 countries starting Thursday, according to the country's Minister of Maritime Affairs and Investment, Luhut Binsar Pan… [+2099 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Francesca Street, CNN",
+            "title": "Airbus A380: Where to fly in a superjumbo as aviation returns",
+            "description": "The Covid-19 pandemic threatened to render the A380 obsolete. But as international travel resumes, airlines including Singapore Airlines and British Airways are getting their superjumbos back into the sky.",
+            "url": "https://www.cnn.com/travel/article/a380-where-to-fly-aviation-return-cmd/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211012073834-08-a380-where-to-fly-aviation-return-super-tease.jpg",
+            "publishedAt": "2021-10-14T09:45:49Z",
+            "content": "(CNN) When Airbus announced plans to cease production of its A380 aircraft back in 2019, heartbroken aviation fans found solace in the fact that the superjumbo wasn't set to stop flying anytime soon.… [+9518 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By Maureen O'Hare, CNN",
+            "title": "Pandemic travel news: Asia-Pacific vacations on the horizon",
+            "description": "Check out CNN's latest weekly news update on pandemic travel. Asian-Pacific destinations including Fiji, Bali, Thailand and Australia all announced reopening plans this week.",
+            "url": "https://www.cnn.com/travel/article/pandemic-travel-news-asia-pacific-reopening/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210420220133-conclu-viajes-covid-super-tease.jpg",
+            "publishedAt": "2021-10-16T08:17:52Z",
+            "content": "(CNN) It was another good week in terms of travel reopenings as tropical paradises including Fiji and Bali announced relaxed restrictions. And the Caribbean's Dominican Republic celebrated its best m… [+7375 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Faith Karimi, CNN",
+            "title": "Start your week smart: Vanessa Bryant, UK, coronavirus, Ahmaud Arbery, Russia",
+            "description": "Here's what you need to know to Start Your Week Smart.",
+            "url": "https://www.cnn.com/2021/10/17/us/five-things-october-17-trnd/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211016234226-police-covid-funeral-restricted-super-tease.jpg",
+            "publishedAt": "2021-10-17T13:40:25Z",
+            "content": "Call it a lucky streak! A 47-year-old man recently won $100,000 on a scratch-off ticket in Maryland -- and it's not his first time. Here's what else you need to know to Start Your Week Smart. Here's … [+3534 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Julia Buckley, CNN",
+            "title": "15 of the world's most spectacular airport landings",
+            "description": "There's more to landing at an airport than getting to your destination. Here are some of the world's best approaches -- and what side you should be sitting for them.",
+            "url": "https://www.cnn.com/travel/article/spectacular-airport-landings/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211005224828-09-spectacular-airport-landings-nice-france-super-tease.jpg",
+            "publishedAt": "2021-10-19T13:35:37Z",
+            "content": "(CNN) There's a lot to love about travel. Experiencing a new culture. Eating great food. Staying in top notch hotels... and landing in a new airport.\r\nOf course, not all airports are created equal. S… [+7640 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Sandee LaMotte, CNN",
+            "title": "We're drowning in a sea of salt. The FDA says we have to help save ourselves",
+            "description": "The FDA is asking manufacturers to voluntarily reduce salt in the foods they produce and says it needs the help of consumers to make that happen.",
+            "url": "https://www.cnn.com/2021/10/13/health/cut-salt-fda-wellness/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/111020063021-salt-shaker-sodium-story-top.jpg",
+            "publishedAt": "2021-10-13T22:49:33Z",
+            "content": "(CNN)I never add salt to my food at home or in restaurants. Nor do I add salt to any recipe while I'm cooking. I'm well aware of the link between salt, high blood pressure and heart disease, which is… [+7303 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By Lilit Marcus, CNN",
+            "title": "When your home becomes a tourist attraction",
+            "description": "When private homes -- and the people who live in them -- in places like London and Hong Kong become tourist attractions, clashes can occur.",
+            "url": "https://www.cnn.com/travel/article/instagram-famous-private-homes-cmd/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211011224222-portobello-road-notting-hill-0226-file-super-tease.jpg",
+            "publishedAt": "2021-10-18T01:16:28Z",
+            "content": "(CNN) Have you ever looked at a beautiful little mews house in London and thought \"it must be so amazing to live there?\"\r\nIf so, you're not the only one. But for the people who actually do live in th… [+6564 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Paul R. La Monica, CNN Business",
+            "title": "'Squid Game' is a huge hit. That may not be enough for Netflix",
+            "description": "For much of this year, Netflix shares have trailed big tech rivals Facebook, Apple and Amazon. That's no longer the case, in part because of the global mega-hit \"Squid Game.\"",
+            "url": "https://www.cnn.com/2021/10/17/investing/stocks-week-ahead/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211014142901-09-squid-game-netflix-super-tease.jpg",
+            "publishedAt": "2021-10-17T12:40:07Z",
+            "content": "A version of this story first appeared in CNN Business' Before the Bell newsletter. Not a subscriber? You can sign up right here.\r\nNew York (CNN Business)For much of this year, Netflix shares have tr… [+4053 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "John Harwood, CNN",
+            "title": "Sense of urgency grips the White House with Biden facing crises on many fronts",
+            "description": "Nine months into Joe Biden's presidency, a White House suddenly beset on all sides feels a growing sense of urgency.",
+            "url": "https://www.cnn.com/2021/10/13/politics/joe-biden-white-house-crises/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211008130814-01-biden-jobs-report-1008-super-tease.jpg",
+            "publishedAt": "2021-10-13T11:00:26Z",
+            "content": "(CNN)Nine months into Joe Biden's presidency, a White House suddenly beset on all sides feels a growing sense of urgency.\r\nThe coronavirus pandemic Biden thought he had tamed this spring continues to… [+6706 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Opinion by David A. Andelman",
+            "title": "Europe's energy crunch is giving Putin the upper hand",
+            "description": "With natural gas supplies running short on the continent, David A. Andelman writes that Russian President Vladimir Putin's ability to pressure Europe is only growing.",
+            "url": "https://www.cnn.com/2021/10/16/opinions/europes-gas-shortage-is-putins-advantage-andelman-op-ed/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211013103851-russia-putin-energy-101321-super-tease.jpg",
+            "publishedAt": "2021-10-16T15:41:56Z",
+            "content": "David A. Andelman, a contributor to CNN, two-time winner of the Deadline Club Award, and executive director of The Red Lines Project, is the author of \"A Red Line in the Sand: Diplomacy, Strategy, an… [+7768 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Christina Vercelletto",
+            "title": "34 Advent calendars that will make December so much merrier",
+            "description": "We handpicked the coolest Advent calendars, from beauty, kids and pets to chocolate and coffee. Prepare to smile your way through December.",
+            "url": "https://www.cnn.com/2021/10/15/cnn-underscored/best-advent-calendar-2021/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/211014125209-adventcallead.jpg?q=x_0,y_0,h_1406,w_2500,c_fill/w_800",
+            "publishedAt": "2021-10-15T13:58:59Z",
+            "content": "Ah, Advent calendars. We love the sweet tradition theyre rooted in, with families of yore lighting candles one at a time to mark each day in the four weeks running up to Christmas. We cherish our chi… [+13319 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "AJ Willingham, CNN",
+            "title": "5 things to know for October 18: Supply chain, Congress, coronavirus, China, Sudan",
+            "description": "Here's what else you need to know to Get Up to Speed and On with Your Day.",
+            "url": "https://www.cnn.com/2021/10/18/us/five-things-october-18-trnd/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211018050505-01-empty-shelves-nyc-1010-super-tease.jpg",
+            "publishedAt": "2021-10-18T10:31:51Z",
+            "content": "(CNN)The recent oil spill off the coast of California has caused less damage than feared so far. However, it's brought the issue of offshore drilling into a new environment: state congressional races… [+5448 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Analysis by Luke McGee, CNN",
+            "title": "Europe on collision course with US over Venezuela elections",
+            "description": "The European Union is running the risk of winding up its most important ally next month, after the bloc agreed to send a team to observe Venezuela's regional elections, set to take place on November 21.",
+            "url": "https://www.cnn.com/2021/10/13/europe/eu-us-tensions-venezuela-election-intl-cmd/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210813102028-venezuela-crisis-super-tease.jpg",
+            "publishedAt": "2021-10-13T16:03:54Z",
+            "content": "(CNN)The European Union is running the risk of winding up its most important ally next month, after the bloc agreed to send a team to observe Venezuela's regional elections, set to take place on Nove… [+4207 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Maegan Vazquez, CNN",
+            "title": "Biden delivers sweeping remarks about human rights: 'To deal with the past you must face the truth'",
+            "description": "President Joe Biden delivered sweeping remarks Friday about human rights, zeroing in on ongoing human rights abuses around the world and underscoring the importance of truth in a time of disinformation.",
+            "url": "https://www.cnn.com/2021/10/15/politics/joe-biden-human-rights-dodd/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211015130639-02-biden-1015-super-tease.jpg",
+            "publishedAt": "2021-10-15T22:01:32Z",
+            "content": "(CNN)President Joe Biden delivered sweeping remarks Friday about human rights, zeroing in on ongoing human rights abuses around the world and underscoring the importance of truth in a time of disinfo… [+4105 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Rachel Ramirez, CNN Business",
+            "title": "The world plans to produce far more fossil fuel than it should to stay under dangerous climate limits, UN says",
+            "description": "New UN report shows that many of the world's largest fossil fuel producers are still planning to ramp up production through 2030, despite global climate pledges.",
+            "url": "https://www.cnn.com/2021/10/20/business/fossil-fuel-production-gap-climate/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211019140454-india-dadri-power-plant-super-tease.jpg",
+            "publishedAt": "2021-10-20T04:08:02Z",
+            "content": "New York (CNN Business)Ahead of a critical global climate conference in November, a UN report released Wednesday shows that many of the world's largest fossil fuel producers are still planning to ram… [+5435 chars]"
+        }
+    ]
+}
